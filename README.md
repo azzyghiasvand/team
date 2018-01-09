@@ -19,3 +19,4 @@ Team:
   - Marshall
   - Lars
   - Ryan
+  - Kevin
