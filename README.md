@@ -20,3 +20,4 @@ Team:
   - Lars
   - Ryan
   - Kevin
+  - Jim
