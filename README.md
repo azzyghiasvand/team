@@ -22,4 +22,5 @@ Team:
   - Kevin
   - Jim
   - Brian
-  - Nahee 
+  - Nahee
+  - Sudee
