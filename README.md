@@ -25,5 +25,4 @@ Team:
   - Nahee
   - Sudee
   - Roslyn
- -<azzyghiasvand>
--azzy
+  - azzy
